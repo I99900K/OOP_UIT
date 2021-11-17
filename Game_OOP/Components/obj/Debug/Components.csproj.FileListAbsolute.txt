@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Game_OOP\Components\bin\Debug\Components.dll
+C:\Users\Admin\source\repos\Game_OOP\Components\bin\Debug\Components.pdb
+C:\Users\Admin\source\repos\Game_OOP\Components\obj\Debug\Components.GameManager.resources
+C:\Users\Admin\source\repos\Game_OOP\Components\obj\Debug\Components.Properties.Resources.resources
+C:\Users\Admin\source\repos\Game_OOP\Components\obj\Debug\Components.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Game_OOP\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Game_OOP\Components\obj\Debug\Components.dll
+C:\Users\Admin\source\repos\Game_OOP\Components\obj\Debug\Components.pdb
+C:\Users\Admin\source\repos\Game_OOP\Components\obj\Debug\Components.csprojAssemblyReference.cache
